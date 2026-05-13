@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=155e33&height=120&section=header&text=Josue%20Rosas&fontSize=70&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2eb67d&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Quantum+Computing+Learner;Hardware+Maintenance+Expert" alt="Typing SVG" />
+</p>
+
 ### 🚀 Software Engineering Student & Quantum Computing Enthusiast
 I'm a developer with a solid background in Computing and IT, transitioning from hardware maintenance to the frontier of Quantum Computing.
 
