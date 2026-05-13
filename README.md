@@ -1,4 +1,6 @@
-## Hi there, I'm Josue Rosas👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=155e33&height=120&section=header&text=Josue%20Rosas&fontSize=70&theme=dark" />
+</p>
 
 ### 🚀 Software Engineering Student & Quantum Computing Enthusiast
 I'm a developer with a solid background in Computing and IT, transitioning from hardware maintenance to the frontier of Quantum Computing.
