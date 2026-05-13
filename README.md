@@ -29,6 +29,8 @@ I'm a developer with a solid background in Computing and IT, transitioning from 
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarm13v&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jarm13v&theme=tokyonight)
+
 ---
 
 ### 📫 Let's Connect!
