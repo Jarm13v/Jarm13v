@@ -9,7 +9,9 @@
 ### 🚀 Software Engineering Student & Quantum Computing Enthusiast
 I'm a developer with a solid background in Computing and IT, transitioning from hardware maintenance to the frontier of Quantum Computing.
 
----
+<p align="right">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+</p>
 
 ### 🔭 About Me
 - 🌱 I’m currently learning on **Quantum Computing basics at QuantumHub Peru**
@@ -17,7 +19,9 @@ I'm a developer with a solid background in Computing and IT, transitioning from 
 - 🛡️ Interests: **Cybersecurity, Systems Analysis, and Cryptography**
 - 🎓 Studying: **Software Engineering**
 
----
+<p align="right">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+</p>
 
 ### 🛠️ Tech Stack & Tools
 | Area | Technologies |
@@ -28,7 +32,9 @@ I'm a developer with a solid background in Computing and IT, transitioning from 
 | **Security** | `Penetration Testing basics` `Network Security` `IT Support` |
 | **Future Tech**| `Quantum Algorithms` `Qiskit` `Quantum Information` |
 
----
+<p align="right">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+</p>
 
 ### 📊 GitHub Stats
 ![Josue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarm13v&show_icons=true&theme=tokyonight)
@@ -37,7 +43,9 @@ I'm a developer with a solid background in Computing and IT, transitioning from 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jarm13v&theme=tokyonight)
 
----
+<p align="right">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+</p>
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-rosas-13-)
